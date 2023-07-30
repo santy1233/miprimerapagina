@@ -25,7 +25,7 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: wrap;
+    align-items: centar;
 }
 
 header nav a{
